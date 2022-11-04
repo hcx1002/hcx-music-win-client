@@ -1,8 +1,8 @@
 ## 仿QQ音乐桌面版
 
-#### 项目基于electron+vue3+ts+vite+pinia等技术
+#### 项目基于electron+vue3+ts+vite+pinia+tailwallcss等技术
 
-项目还有许多页面未完成，许多功能需要性能优化，例如图片的懒加载等，后续项目仍会更新，后台调用网易云接口，后台已部署在个人服务器上，建议去[网易云音乐 NodeJS 版 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/)下载到本地使用。[H5版本音乐](https://github.com/hcx1002/hcx-music)
+项目还有许多页面未完成，许多功能需要性能优化，例如图片的懒加载等，后续项目仍会更新，后台调用网易云接口，后台已部署在个人服务器上，建议去[网易云音乐 NodeJS 版 API](https://binaryify.github.io/NeteaseCloudMusicApi/#/)下载到本地使用。[H5版本音乐](https://github.com/hcx1002/hcx-music) 到这里查看
 
 ### 本项目仅供学习参考，不做其他用途。
 
